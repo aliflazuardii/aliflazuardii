@@ -1,4 +1,4 @@
-##  Hello World! I'm Alif Lazuardi 👋
+
 ![Header](img/github-header-banner.png)
 
 ##### Skills
