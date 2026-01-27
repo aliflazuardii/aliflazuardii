@@ -21,11 +21,10 @@
 <a href="https://instagram.com/alif.lazuardii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alif.lazuardii" height="30" width="40" /></a>
 </p>
 
-##### My Github Stats
-![Alif GitHub stats](https://github-readme-stats.vercel.app/api?username=aliflazuardii&show_icons=true&theme=gruvbox)
+<!-- ##### My Github Stats
+![Alif GitHub stats](https://github-readme-stats.vercel.app/api?username=aliflazuardii&show_icons=true&theme=gruvbox) -->
 
-#### Play With Me
-
+##### Play With Me
 <img src="https://raw.githubusercontent.com/aliflazuardii/aliflazuardii/output/snake.svg" alt="Snake animation" />
 
 
