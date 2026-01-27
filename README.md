@@ -1,22 +1,23 @@
 ##  Hello World! I'm Alif Lazuardi 👋
+![Header](img/github-header-banner.png)
 
-<!--
-**aliflazuardii/aliflazuardii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### Skills
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,laravel,php&theme=light&perline=5)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+
+
+##### Connect With Me
+![https://instagram.com/aliflazuardi](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![https://www.linkedin.com/in/alif-iman-lazuardi-58b053390/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+##### My Github Stats
+![Alif GitHub stats](https://github-readme-stats.vercel.app/api?username=aliflazuardii&show_icons=true&theme=gruvbox)
+
  
- 🔭 I’m currently working on **SMK MUH 1 WELERI**
 
- 🌱 I’m currently learning **Laravel**
-
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
