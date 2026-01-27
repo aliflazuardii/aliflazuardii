@@ -24,7 +24,7 @@
 ##### My Github Stats
 ![Alif GitHub stats](https://github-readme-stats.vercel.app/api?username=aliflazuardii&show_icons=true&theme=gruvbox)
 
-#### P lay With Me
+#### Play With Me
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aliflazuardii/aliflazuardii/output/pacman-contribution-graph-dark.svg">
@@ -37,6 +37,5 @@
 <img src="https://raw.githubusercontent.com/aliflazuardii/aliflazuardii/output/snake.svg" alt="Snake animation" />
 
 ###
-
  
 
